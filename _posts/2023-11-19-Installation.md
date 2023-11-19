@@ -2,15 +2,15 @@
 title: "Installation Guide"
 date: "2023-11-19 02:12:51"
 categories: ansible_chapter1
-tags: Ansible, DevOps, Automation
+image: "assets/ansible/ansible_chap1.png"
+tags: ansible, devops, automation
 permalink: "/:categories/:title.html"
 ---
-![Ansible Chapter 1 ](/assets/ansible/ansible_chap1.png)
-*Chapter 1 | Post 2*
+> Chapter - 1 | Post 2
 
 <br> 
 
-> Packages listed in this post are all related to RHEL
+> *Packages listed in this post are all related to RHEL*
 
 We can get Ansible in different ways,
 
