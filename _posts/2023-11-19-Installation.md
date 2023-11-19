@@ -1,8 +1,8 @@
 ---
 title: "Installation Guide"
 date: "2023-11-19 02:12:51"
-categories: DevOps, Automation
-tags: Ansible
+categories: ansible_chapter1
+tags: Ansible, DevOps, Automation
 permalink: "/:categories/:title.html"
 ---
 
