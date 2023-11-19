@@ -2,11 +2,12 @@
 title: "What is Ansible ?"
 date: "2023-11-19 02:08:43"
 categories: ansible_chapter1
-tags: Ansible, DevOps, Automation
+image: /assets/ansible/ansible_chap1.png
+author: Davis Barnabas 
+tags: ansible, devops, automation
 permalink: "/:categories/:title.html"
 ---
-![Ansible Chapter 1 ](/assets/ansible/ansible_chap1.png)
-*Chapter 1 | Post 1*
+> Chapter 1 | Post 1 
 
 <br> 
 
