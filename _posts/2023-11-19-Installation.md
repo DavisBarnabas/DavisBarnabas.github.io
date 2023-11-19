@@ -5,8 +5,6 @@ categories: ansible_chapter1
 tags: Ansible, DevOps, Automation
 permalink: "/:categories/:title.html"
 ---
-<br> 
-
 ![Ansible Chapter 1 ](/assets/ansible/ansible_chap1.png)
 *Chapter 1 | Post 2*
 
