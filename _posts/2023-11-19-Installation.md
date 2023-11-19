@@ -5,8 +5,14 @@ categories: ansible_chapter1
 tags: Ansible, DevOps, Automation
 permalink: "/:categories/:title.html"
 ---
+<br> 
 
-> Packages are all related to RHEL
+![Ansible Chapter 1 ](/assets/ansible/ansible_chap1.png)
+*Chapter 1 | Post 2*
+
+<br> 
+
+> Packages listed in this post are all related to RHEL
 
 We can get Ansible in different ways,
 
