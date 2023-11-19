@@ -6,7 +6,7 @@ image: "/assets/ansible/ansible_chap1.png"
 tags: ansible, devops, automation
 permalink: "/:categories/:title.html"
 ---
-Chapter - 1 | Post 2
+Chapter - 1, Post 2
 
 <br> 
 
