@@ -14,7 +14,7 @@ Patterns can be really helpful to us when we use Ad-Hoc commands to specifically
 
 ### Common Patterns
 
-| Target | Pattern | 
+| Scope | Pattern | 
 |  :---: |  :---:  |
 | All Hosts | all (or) * | 
 | One Host | host1 |
