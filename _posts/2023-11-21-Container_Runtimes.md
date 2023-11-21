@@ -40,7 +40,7 @@ The above mentioned are ***native runtimes*** meaning they run their containeriz
 
 ### CRI specification
 
-Back in the day when K8s was introduced ***Docker*** runtime was used as the default runtime and as time  by and the need for support of other container runtimes keeps on raising, the ***CRI*** was created.
+Back in the day when K8s was introduced ***Docker*** runtime was used as the default runtime and as time went by and the need for support of other container runtimes keeps on raising, the ***CRI*** was created.
 
 Unlike ***OCI***, ***CRI*** deals with the additional aspects of Container management such as,
 
@@ -48,9 +48,9 @@ Unlike ***OCI***, ***CRI*** deals with the additional aspects of Container manag
 * Snapshots,
 * Networking.
 
-### High level container Runtimes
+### High level container runtimes
 
-Container runtimes which follows ***CRI*** (*Container Runtime Interface*) fall into High level container runtimes. In Kubernetes the container runtime used should adhere to **CRI** specification.
+Container runtimes which adhere's to ***CRI*** (*Container Runtime Interface*) specification fall's into High level container runtimes. 
 
 Few notable runtimes which fall under this are,
 
