@@ -30,9 +30,11 @@ Few notable advantages of using Image's rather than the traditional way where th
 
 ### Container
 
-We can call it as the running instance of an image and its very lightweight, contains less bloatware (only has the necessary things needed to run the application), uses minimum resources. 
+We can call it as the running instance of an image and its very lightweight, contains less bloatware (only has the necessary components required to run the application), uses minimum resources. 
 
 By using containers we can also run different versions of the same application without any hazle which is other ways not possbile with the traditional installation of an application which causes conflicts with the package versions. 
+
+Container technology is present for a long time, but the introduction of ***container Images & container registries*** by Docker started all the revolution which we now see in the tech.
 
 ### Dockerfile
 

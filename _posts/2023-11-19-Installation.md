@@ -1,5 +1,5 @@
 ---
-title: "Installation Guide"
+title: "Ansible Installation Guide"
 date: "2023-11-19 02:12:51"
 categories: ansible_basics
 image: "/assets/ansible/ansible_chap1.png"
