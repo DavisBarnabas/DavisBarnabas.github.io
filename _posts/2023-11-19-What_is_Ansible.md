@@ -1,7 +1,7 @@
 ---
 title: "What is Ansible ?"
 date: "2023-11-19 02:08:43"
-categories: ansible_chapter1
+categories: ansible_basics
 image: "/assets/ansible/ansible_chap1.png"
 tags: ansible, devops, automation
 permalink: "/:categories/:title.html"

@@ -1,7 +1,7 @@
 ---
 title: "Ansible Patterns"
 date: "2023-11-20 00:24:04"
-categories: ansible_chapter1
+categories: ansible_basics
 image: "/assets/ansible/ansible_chap1.png"
 tags: ansible, devops, automation
 permalink: "/:categories/:title.html"
