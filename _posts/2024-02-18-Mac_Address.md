@@ -27,7 +27,7 @@ The MAC address is also referred to as **Physical Address** , **Layer 2 Address*
 ```
 
 ```bash
-# show mac-address-table
+# show mac address-table
 ```
 
 Also keep in mind the MAC address is displayed in different format by Windows,Mac/Linux & Cisco.
