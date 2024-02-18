@@ -8,10 +8,7 @@ permalink: "/:categories/:title.html"
 ---
 Chapter - 1, Post 1 
 
-<br> 
-
 Basically its an **Automation Engine** which runs Ansible Playbooks, we can also call it as **Desired-State engine**.
-
 ## How can it be used ?
 
 - Configuration management,
@@ -19,7 +16,6 @@ Basically its an **Automation Engine** which runs Ansible Playbooks, we can also
 - Network automation,
 - Provisioning,
 - Continuous Delivery.
-
 ## Advantages
 
 - It's follows Agentless architecture,
@@ -30,24 +26,19 @@ Basically its an **Automation Engine** which runs Ansible Playbooks, we can also
 ## How it works ?
 
 Typically, Ansible connects to the hosts that it manages via OpenSSH/WinRM and pushes small programs called ***Ansible Modules***. These programs are used to put the system in the desired state and any modules that are pushed will be **removed** after it completes it's intended task.
-<br>
 
 Each Module does one **Specific thing** only.
-
 ### Play
 
 A **Play** performs a series of tasks on the managed hosts, in the order specified by the play.
 
 Default behaviour of Ansible when a task fails is to abort the rest of the playbook for the host which had failure.
-
 ### Playbook
 
 A file which contains one or more ***Plays***. To be more specific it orchestrates the execution of the Modules.
-<br>
 
 - ***How and in which order*** the modules in a task are to be executed.
 - ***At what time and where*** the modules are to be executed.
-<br>
 
 An example playbook,
 
