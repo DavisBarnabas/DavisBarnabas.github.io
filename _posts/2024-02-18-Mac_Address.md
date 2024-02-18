@@ -18,16 +18,16 @@ The MAC address is also referred to as **Physical Address** , **Layer 2 Address*
 
 ##### View Mac Address:
 
-```Windows
+```powershell
 > ipconfig /all
 ```
 
-```Linux
-> ip link show 
+```bash
+# ip link show 
 ```
 
-```Cisco
-> show mac-address-table
+```bash
+# show mac-address-table
 ```
 
 Also keep in mind the MAC address is displayed in different format by Windows,Mac/Linux & Cisco.
@@ -59,13 +59,13 @@ Do note, there are two types of ARP cache entry,
 
 ##### Create Static ARP entry:
 
-```Linux
-> arp -s 10.0.0.2 00:1A:54:A4:54:07
+```bash
+# arp -s 10.0.0.2 00:1A:54:A4:54:07
 ```
 
 ##### To view ARP cache:
 
-```Linux 
-> arp -a 
+```bash
+# arp -a 
 ```
 
