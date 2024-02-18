@@ -57,12 +57,27 @@ Do note, there are two types of ARP cache entry,
 - Dynamic entry, (Automatically added when a device sends broadcast request and got response, its not permanent will be flushed periodically.)
 - Static entry (Entry which we add manually)
 
-##### Create Static ARP entry:
+##### Create Static ARP entry in Linux:
 
 ```bash
 # arp -s 10.0.0.2 00:1A:54:A4:54:07
 ```
 
+##### Create Static ARP entry in a Cisco Switch:
+
+```bash
+# conf terminal
+
+If we want to associate the Mac address with a specific Interface, then goto that interface first,
+
+# interface g0/1
+# arp ip 10.0.1.10 00:5A:23:65:0F:02 arpa
+# exit 
+
+To save the changes 
+
+# write memory 
+```
 ##### To view ARP cache:
 
 ```bash
