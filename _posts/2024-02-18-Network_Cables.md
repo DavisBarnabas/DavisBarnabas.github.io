@@ -78,12 +78,12 @@ So, with this we got two types,
 - Multi-mode.
 
 These cables uses ***SFP*** modules.
-#### Single Mode:
+##### Single Mode:
 
 - It has a wide core diameter through which the light can pass,
 - Usually this type of cables are longer,
 - Expensive.
-#### Multi Mode:
+##### Multi Mode:
 
 - Less expensive than Single-mode,
 - Less in length than Single-mode cables but longer than UTP/STP.
