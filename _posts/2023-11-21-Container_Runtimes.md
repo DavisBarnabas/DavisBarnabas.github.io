@@ -36,7 +36,7 @@ The above mentioned are ***native runtimes*** meaning they run their containeriz
 * ***gVisor & Nabla*** - These are *Sandboxed Runtimes*. ( run their containerized processes in a Proxy layer which then interacts with the host kernel )
 * ***runV, Clear & Kata*** - These are *Virtualized Runtimes*. ( utilize the virtual machine interface to run the containerized processes )
 
-> **Note:** Both ***runV & clear*** are deprecated and their features are merfed with Kata containers.
+> **Note:** Both ***runV & clear*** are deprecated and their features are merged with Kata containers.
 
 ### CRI specification
 
