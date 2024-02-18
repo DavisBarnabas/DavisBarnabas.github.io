@@ -1,12 +1,12 @@
 ---
-title: Network Cables
-date: 2024-02-18 15:01:35
+title: "Network Cables"
+date: "2024-02-18 15:01:35"
 categories: networking
-image: /assets/network/network_cable.jpg
+image: "/assets/network/network_cable.jpg"
 tags:
   - devops
   - networking
-permalink: /:categories/:title.html
+permalink: "/:categories/:title.html"
 ---
 We have different types of cable to do various stuff few notable cables in the industry are Unshielded Twisted Pair cables (UTP), Shielded Twisted Pair cables (STP), Fiber Optic cables.
 
