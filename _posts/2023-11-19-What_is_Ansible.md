@@ -16,6 +16,7 @@ Basically its an **Automation Engine** which runs Ansible Playbooks, we can also
 - Network automation,
 - Provisioning,
 - Continuous Delivery.
+
 ## Advantages
 
 - It's follows Agentless architecture,
