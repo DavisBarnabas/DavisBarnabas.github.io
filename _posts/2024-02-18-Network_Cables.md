@@ -25,8 +25,8 @@ See what type of cable we need to use when we try to connect b/w below devices,
 | **Switch** | **Switch** | **Cross-over cable** |
 
 > **Note:**
-> *Speed* is measured in *Bits.
-> *Storage space* is measure in *Bytes*.
+> ***Speed*** is measured in *Bits.
+> ***Storage space*** is measure in *Bytes*.
 
 
 A cable has 8 pins and the way the pins are connected between the two ends differentiates the *Straight through* & *Cross-over* cables.
