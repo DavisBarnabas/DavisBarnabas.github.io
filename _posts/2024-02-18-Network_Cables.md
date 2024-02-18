@@ -64,12 +64,14 @@ Assume Start end to be connected with a **Router** or **PC** and the End pin is 
 
 All above concepts apply to old switches and router. With all new equipments we have a feature call ***Auto MDI-x*** which takes care where the data is transmitted from and where its received at the pin end and we can use any types of cables to connect the devices. 
 
+
 | **Speed** | **Protocol** | **Naming convention** | **Length** |
 | :--: | :--: | :--: | :--: |
 | **10 Mpbs** | **802.3i** | **10BASE-T** | **100 M** |
 | **100 Mpbs** | **802.3u** | **100BASE-T** | **100 M** |
 | **1 Gbps** | **802.3ab** | **1GBASE-T** | **100 M** |
 | **10 Gbps** | **802.3an** | **10GBASE-T** | **100 M** |
+
 ### Fiber Optic Cables:
 
 So, with this we got two types,
@@ -78,11 +80,13 @@ So, with this we got two types,
 - Multi-mode.
 
 These cables uses ***SFP*** modules.
+
 ##### Single Mode:
 
 - It has a wide core diameter through which the light can pass,
 - Usually this type of cables are longer,
 - Expensive.
+
 ##### Multi Mode:
 
 - Less expensive than Single-mode,
